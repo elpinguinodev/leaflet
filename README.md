@@ -1,2 +1,2 @@
 # website_test1
-first try with github pages
+this could be the link to the map page
